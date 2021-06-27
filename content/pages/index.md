@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: Latest Posts
     title: Latest Posts
-    subtitle: lorem-ipsum
     background: gray
     type: section_posts
 seo:

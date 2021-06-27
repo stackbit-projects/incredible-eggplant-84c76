@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: Latest Posts
-    title: lorem-ipsum
+    title: Latest Posts
     subtitle: lorem-ipsum
     background: gray
     type: section_posts

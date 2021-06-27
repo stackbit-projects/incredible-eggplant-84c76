@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Latest Posts
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
